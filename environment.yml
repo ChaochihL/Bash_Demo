@@ -1,0 +1,7 @@
+name: tmp-environment
+channels:
+  - conda-forge
+dependencies:
+   - python
+   - pip
+      - bash_kernel

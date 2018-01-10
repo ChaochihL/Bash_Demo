@@ -1,2 +1,5 @@
-# Ignore Jupyter notebook checkpoints
+#   Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints*
+
+#   Ignore Mac specific .DS_Store file
+*.DS_Store*
