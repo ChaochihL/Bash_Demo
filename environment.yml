@@ -63,5 +63,4 @@ dependencies:
   - jupyter-client==5.1.0
   - jupyter-core==4.4.0
   - prompt-toolkit==1.0.15
-prefix: /Users/chaochih/anaconda3/envs/py3k
 
