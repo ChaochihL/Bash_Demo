@@ -1,6 +1,7 @@
 name:
 channels:
 - conda-forge
+- anaconda
 - defaults
 dependencies:
 - ca-certificates
