@@ -1,9 +1,0 @@
-#   Create environment for Python 3
-conda create -n py3k python=3 ipython notebook
-#   Turn it on
-source activate py3k
-#   The following commands will install for python 3 anaconda automatically
-pip install bash_kernel
-python -m bash_kernel.install
-
-export PATH="/usr/Downloads:$PATH"
