@@ -1,9 +1,10 @@
 name:
 channels:
 - conda-forge
+- anaconda
 - defaults
 dependencies:
-- ca-certificates=2017.08.26=h1d4fec5_0
+- ca-certificates
 - certifi=2017.11.5=py36hf29ccca_0
 - decorator=4.1.2=py36hd076ac8_0
 - entrypoints=0.2.3=py36h1aec115_2
