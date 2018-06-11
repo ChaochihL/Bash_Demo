@@ -8,7 +8,7 @@ This repository contains Jupyter notebooks used for a hands-on demo at the Inter
 
 ## Getting Started
 
-To open tutorial, click on the **launch binder** badge at the top of this page.
+To open tutorial, click on the **launch binder** badge at the top of this page. This may take a few minutes to build.
 
 ---
 
