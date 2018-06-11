@@ -1,8 +1,14 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/liux1299/Bash_Demo/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ChaochihL/Bash_Demo/master)
 
 # Bash_Demo
 
 This repository contains Jupyter notebooks used for a hands-on demo at the Interdisciplinary Day of Data on January 12th, 2018
+
+---
+
+## Getting Started
+
+To open tutorial, click on the **launch binder** badge at the top of this page.
 
 ---
 
