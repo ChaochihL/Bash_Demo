@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ChaochihL/Bash_Demo/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ChaochihL/Bash_Demo/master)
 
 # Bash_Demo
 
